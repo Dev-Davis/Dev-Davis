@@ -1,4 +1,4 @@
-### Hi, I'm Sean Davis and I am aa Full Stack Web Developer 👋
+### Hi, I'm Sean Davis and I am a Full Stack Web Developer 👋
 
 <!--
 **Dev-Davis/Dev-Davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
