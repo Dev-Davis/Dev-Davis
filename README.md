@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Algorithms and Data Structures in Javascript
-- 🌱 I’m currently learning Python at the moment
+- 🌱 Also learning Python at the moment
 - 👯 I’m looking to collaborate on Full Stack project with like minded developers
 - ⚡ Fun fact: "I am an avid hat collector"
 
