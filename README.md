@@ -8,11 +8,14 @@ Here are some ideas to get you started:
 - 🌱 Also learning Python at the moment
 - 👯 I’m looking to collaborate on a Full Stack project with like minded developers
 - ⚡ Fun fact: "I am an avid hat collector"
+- Avid roller skater
+- Music Composer
+- Web Developer
 
 <!-- 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with ... getting my foot in the door with development
+- 💬 Ask me about ... 
+- 📫 How to reach me: ... 615-818-6676
+- 😄 Pronouns: ... He/Him
 
 -->
