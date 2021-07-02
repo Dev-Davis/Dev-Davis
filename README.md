@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - Music Composer
 - Web Developer
 
-<!-- 
-- 🤔 I’m looking for help with ... getting my foot in the door with development
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... 615-818-6676
-- 😄 Pronouns: ... He/Him
 
--->
+- 🤔 I’m looking for help with ... getting my foot in the door with development
+- 💬 Ask me about roller skating, most things 90's related,  
+- 📫 How to reach me: ... 615-818-6676
+
+<!-- how you leave comments in the README -->
