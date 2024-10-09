@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 - Continuously building my Full Stack Developement skills
 - ### Tuning myself, and growing more all around (Keeping positive energy)
 - I’m looking to collaborate on a Full Stack project with like minded developers
-- ### I am a hat collector, roller skater, music composer/engineer, web developer, creative
-
-- Ask me about roller skating, most things 90's related,  
-- ### 📫 How to reach me: ... sean.d.davis86@gmail.com
+- ### I am a hat collector, roller skater, music composer/engineer, web developer, and creative
+- Ask me about roller skating, and/or most things 90's related (Especially Nickelodeon),  
+- ### 📫 How to reach me: ... sean.dev.davis@gmail.com
 
 <!-- how you leave comments in the README -->
