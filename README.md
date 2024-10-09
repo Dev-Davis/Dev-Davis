@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- ### I’m building myself to be the best developer I can be
-- Getting deeper into building my C# and React skills
-- ### Tuning myself, and growing more all around
+- ### I’m growing as an excellent developer
+- Continuously building my C# and React skills
+- ### Tuning myself, and growing more all around (Keeping positive energy)
 - I’m looking to collaborate on a Full Stack project with like minded developers
 - ### "I am a hat collector, roller skater, music composer/engineer, web developer, creative
 
